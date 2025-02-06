@@ -16,7 +16,7 @@ body{
 #header{
     width: 100%;
     height: 100vh;
-    background-image: url("Giri.jpg");
+    background-image: url("https://raw.githubusercontent.com/Giri291/ShadowFox/main/Giri.jpg");
     background-size: cover;
     background-position: center;
     max-width:auto;
